@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/EXO1.dir/src/td3_exo1.cpp.o -c /Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/src/td3_exo1.cpp",
+  "file": "/Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/src/td3_exo1.cpp",
+  "output": "CMakeFiles/EXO1.dir/src/td3_exo1.cpp.o"
+},
+{
+  "directory": "/Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/EXO2.dir/src/td3_exo2.cpp.o -c /Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/src/td3_exo2.cpp",
+  "file": "/Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/src/td3_exo2.cpp",
+  "output": "CMakeFiles/EXO2.dir/src/td3_exo2.cpp.o"
+},
+{
+  "directory": "/Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/EXO3.dir/src/td3_exo3.cpp.o -c /Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/src/td3_exo3.cpp",
+  "file": "/Users/juliebonne/Desktop/ECOLE/IMAC/semestre_2/prog_algo/td3/TD3_Algorithmes-de-tri/src/td3_exo3.cpp",
+  "output": "CMakeFiles/EXO3.dir/src/td3_exo3.cpp.o"
+}
+]
